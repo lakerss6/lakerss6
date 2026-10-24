@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**lakerss6/lakerss6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
 
-Here are some ideas to get you started:
+hey, i'm shuab 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+cs & informatics @ university of washington.
+
+I like building products, solving problems, and learning how things work under the hood.
+
+Currently exploring full-stack development, backend engineering, and AI.
+
+**currently**
+- building projects that solve real problems
+- getting better at algorithms & data structures
+- learning how to design scalable systems
+
+**tech:** Python · Java · TypeScript · React · Node.js
+
+*always building, always learning.*
+
+# 💻 Tech Stack:
+
+![Tech Stack](https://skillicons.dev/icons?i=ts,py,java,js,vercel,spring,django,nodejs,mongodb,mysql,tensorflow,pytorch,git,github,react)
